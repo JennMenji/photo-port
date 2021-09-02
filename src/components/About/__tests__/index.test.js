@@ -7,7 +7,6 @@ afterEach(cleanup);
 
 describe("About component", () => {
   // First Test: the baseline to verify that the component is rendering
-
   it("renders", () => {
     render(<About />);
   });
